@@ -2,3 +2,6 @@
 
 def Main():
     pass
+
+def Lib():
+    print('It is library function')
