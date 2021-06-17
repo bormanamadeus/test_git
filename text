@@ -5,3 +5,7 @@ def Main():
 
 def Lib():
     print('It is library function')
+
+def function_print(message):
+    print(message)
+
