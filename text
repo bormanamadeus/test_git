@@ -1,11 +1,8 @@
-#! /usr/bin/python
-
 def Main():
-    pass
+	Helloman()
 
-def Lib():
-    print('It is library function')
+def HelloMan():
+	pass
 
-def function_print(message):
-    print(message)
-
+if __main__ = 'main':
+	Main()
